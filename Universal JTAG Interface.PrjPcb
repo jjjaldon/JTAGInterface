@@ -89,10 +89,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNEQCKPK
 
-[GeneratedDocument1]
-DocumentPath=Manufacturing Files\Design Rule Check - Universal JTAG Interface.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
